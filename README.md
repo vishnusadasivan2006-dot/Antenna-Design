@@ -21,30 +21,6 @@ The project focuses on antenna geometry design, electromagnetic simulation, and 
 * **Design Type:** Microstrip Patch Antenna
 * **Method:** Electromagnetic Simulation
 
-## 📷 Design Gallery
-
-The following images showcase the antenna design and simulation work.
-
-> Replace the image filenames below with the actual filenames uploaded to this repository.
-
-### 1. Antenna Geometry
-
-![Microstrip Patch Antenna Geometry](images/antenna_geometry.png)
-
-*3D geometry of the designed microstrip patch antenna.*
-
-### 2. Simulation Model
-
-![Antenna Simulation Model](images/antenna_simulation.png)
-
-*Simulation model showing the antenna structure and setup in CST Studio Suite.*
-
-### 3. Simulation Results
-
-![Antenna Simulation Results](images/antenna_results.png)
-
-*Visualization of the antenna simulation results.*
-
 ## 📚 Key Learning Outcomes
 
 * Understanding microstrip patch antenna structure and geometry.
